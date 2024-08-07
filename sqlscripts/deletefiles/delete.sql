@@ -1,1 +1,1 @@
-delete from employee where name='Ashlin';
+delete from TEST_DB.PUBLIC.employee where name='Ashlin';
