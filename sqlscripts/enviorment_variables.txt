@@ -1,2 +1,2 @@
-v_env_test_db_prod=test_db
-v_env_PUBLIC_schema=public
+"v_env_test_db_prod"="test_db"
+"v_env_PUBLIC_schema"="public"
