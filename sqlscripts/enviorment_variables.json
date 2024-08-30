@@ -2,4 +2,5 @@
 ,"abc":123,
 "v_env_employee_tbl": "employee",
 "v_env_test_db_dev":"TEST_DB_DEV"
+  "v_env_test_employee_tbl":"test_employee"
 }
