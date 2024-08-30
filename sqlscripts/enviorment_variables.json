@@ -1,2 +1,5 @@
-{"v_env_test_db_prod":"test_db",
-"v_env_PUBLIC_schema":"public"}
+{"v_env_test_db_prod":"test_db","v_env_PUBLIC_schema":"public"
+,"abc":123,
+"v_env_employee_tbl": "employee",
+"v_env_test_db_dev":"TEST_DB_DEV"
+}
