@@ -1,2 +1,2 @@
-insert into github_repo.test.employee('10','Ajin','Y');
+insert into github_repo.TEST.employee1(1,'Ajin','Y');
 
