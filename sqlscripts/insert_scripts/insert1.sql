@@ -1,1 +1,1 @@
-insert into test_db.public.test_employee values('Ajin','456','Y');
+insert into TEST_DATABASE.GIT_FETCH.EMPLOYEE values (1,'Ajin',000);
